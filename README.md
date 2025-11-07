@@ -87,7 +87,8 @@ It features charts that answer specific questions:
 Includes a **special button** to switch the entire page between "Number of Loans," "Amount Funded," and "Amount Received."
 
 
-
+**Dashboard of Overview :**
+[Project Dashboard](overview.png)
 
 
 
@@ -113,7 +114,8 @@ A simple table showing all the raw data behind the charts, allowing users to see
 **Top market:** California (CA) was the state with the highest number of loans and the largest amount of money given out.
 
 
-
+**Dashboard of Details :**
+[Project Dashboard](details.png)
 
 
 **Tools & Technologies**
