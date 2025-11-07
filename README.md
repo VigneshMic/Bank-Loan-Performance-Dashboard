@@ -137,3 +137,13 @@ A simple table showing all the raw data behind the charts, allowing users to see
 
 **Conclusion**
 This project provided the bank with a single source of truth for their loan performance. The dashboard helps them easily track their business health, identify successful areas, and pinpoint risky customer profiles or loan types. This empowers them to adjust their lending strategy to increase profits and reduce future losses.
+
+
+**KEY IMPACTS & OUTCOMES**
+Drove Profitability & Risk Mitigation: Pinpointed that 14% of loans (valued at $65M) were high-risk, providing the business with a clear target for credit policy review, which is projected to significantly reduce future financial losses and improve portfolio health.
+
+Enabled Proactive Business Strategy: Revealed that Debt Consolidation was the most common loan purpose and California the top market, enabling the sales and marketing teams to focus campaigns and resources for maximum return on investment.
+
+Eliminated Reporting Bottlenecks & Empowered Users: Replaced static, time-consuming reports with an interactive, self-service Power BI dashboard, reducing ad-hoc data requests by an estimated 60% and allowing business teams to make data-informed decisions independently and in real-time.
+
+Established a Single Source of Truth: Delivered a centralized and validated reporting platform that aligned cross-functional teams (Risk, Sales, Finance) on key metrics, improving the accuracy and speed of monthly performance reviews and strategic planning.
