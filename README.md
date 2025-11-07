@@ -66,8 +66,8 @@ It has a clear visual showing the split between Good and Bad Loans.
 
 Includes filters for Date, Loan Grade, and State.
 
-
-
+**Dashboard of Summary :**
+[Project Dashboard]()
 
 
 
